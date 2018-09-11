@@ -120,7 +120,7 @@
                 <tr >
                     <td>
                         <div>
-                            <img style="height: 100%; width: 100%" src="https://universoifceumirim.vpeventos.com/uploads/uploads_3401/general/palestrante_15.jpg" />
+                            <img style="height: 100%; width: 100%" src="imagens/Anderson.jpg" />
                         </div>
                     </td>
                     <td >
@@ -142,7 +142,7 @@
                     </td>
                     <td>
                         <div class="post-image" style="text-align: center;">
-                            <img style="height: 100%; width: 100%" src="https://universoifceumirim.vpeventos.com/uploads/uploads_3401/general/palestrante_22.jpg" />
+                            <img style="height: 100%; width: 100%" src="imagens/Mateus.jpg" />
                         </div>
                     </td>
                     <td>
@@ -161,7 +161,7 @@
                 <tr style="width:210px;">
                     <td>
                         <div class="post-image" style="text-align: center;">
-                            <img style="height: 100%; width: 100%;" src="https://universoifceumirim.vpeventos.com/uploads/uploads_3401/general/palestrante_21.jpg" />
+                            <img style="height: 100%; width: 100%;" src="imagens/George.jpg" />
                         </div>
                     </td>
                     <td>
@@ -177,7 +177,7 @@
                     </td>
                     <td>
                         <div class="post-image" style="text-align: center;">
-                            <img style="height: 100%; width: 100%;" src="https://universoifceumirim.vpeventos.com/uploads/uploads_3401/general/palestrante_20.jpg" />
+                            <img style="height: 100%; width: 100%;" src="imagens/Enilce.jpg" />
                         </div>
 
                     </td>
@@ -196,7 +196,7 @@
                 </tr>
                 <tr style="">
                     <td>
-                        <img style=" height:10%; width:90%"   src="https://universoifceumirim.vpeventos.com/uploads/uploads_3401/general/palestrante_17.jpg" /></td>
+                        <img style=" height:10%; width:90%"   src="imagens/Igor.jpg" /></td>
                     <td>
                         <h3 style="text-align: center;">Igor de Morais Paim</h3>
                         <h4 class="speakers-role" style="text-align: center; margin-top: 5px;">Professor do IFCE - Campus Umirim</h4>
@@ -209,7 +209,7 @@
                         </div>
                     </td>
                     <td>
-                        <img style="height: 250px; width: 210px" src="https://universoifceumirim.vpeventos.com/uploads/uploads_3401/general/palestrante_16.jpg" />
+                        <img style="height: 250px; width: 210px" src="imagens/Jeriel.jpg" />
 
                     </td>
                     <td>
@@ -230,7 +230,7 @@
 
                 <tr style="height:300px;">
                     <td>
-                        <img style="height: 250px; width: 60%" src="https://universoifceumirim.vpeventos.com/uploads/uploads_3401/general/palestrante_19.jpg" /></td>
+                        <img style="height: 250px; width: 60%" src="imagens/Enos.jpg" /></td>
                     <td>
                         <h3 style="text-align: center;">Enos Feitosa de Araújo</h3>
                         <h4 class="speakers-role" style="text-align: center; margin-top: 5px;">Professor do IFCE - Campus Umirim</h4>
@@ -243,7 +243,7 @@
                         </div>
                     </td>
                     <td>
-                        <img style="height: 250px; width: 70%" class="speaker-image" src="https://universoifceumirim.vpeventos.com/uploads/uploads_3401/general/palestrante_26.jpg" />
+                        <img style="height: 250px; width: 70%" class="speaker-image" src="imagens/Thais.jpg" />
                     </td>
                     <td>
                         <h3 style="text-align: center;">Thais Loiola Soares</h3>

@@ -107,14 +107,20 @@
     <Content Include="fontello.css" />
     <Content Include="imagens\analise.png" />
     <Content Include="imagens\anapaula.gif" />
+    <Content Include="imagens\Anderson.jpg" />
     <Content Include="imagens\carlos.gif" />
     <Content Include="imagens\download.png" />
     <Content Include="imagens\edilaine.gif" />
     <Content Include="imagens\elidiane.gif" />
+    <Content Include="imagens\Enilce.jpg" />
+    <Content Include="imagens\Enos.jpg" />
+    <Content Include="imagens\George.jpg" />
     <Content Include="imagens\glaucionor.png" />
     <Content Include="imagens\helder.png" />
+    <Content Include="imagens\Igor.jpg" />
     <Content Include="imagens\incon2.jpg" />
     <Content Include="imagens\jeferssom.png" />
+    <Content Include="imagens\Jeriel.jpg" />
     <Content Include="imagens\jorge.gif" />
     <Content Include="imagens\licilangela.gif" />
     <Content Include="imagens\logoifce_ant.jpg" />
@@ -122,6 +128,7 @@
     <Content Include="imagens\lucas.gif" />
     <Content Include="imagens\marcelo.gif" />
     <Content Include="imagens\marcilio.png" />
+    <Content Include="imagens\Mateus.jpg" />
     <Content Include="imagens\odilon.gif" />
     <Content Include="imagens\programacao10.png" />
     <Content Include="imagens\programcao11.png" />
@@ -131,13 +138,11 @@
     <Content Include="imagens\RAQUEL.gif" />
     <Content Include="imagens\ribeiro.png" />
     <Content Include="imagens\rodrigo.gif" />
+    <Content Include="imagens\Thais.jpg" />
     <Content Include="imagens\thiago.gif" />
     <Content Include="imagens\yane.jpg" />
     <Content Include="Organizadores.aspx" />
     <Content Include="packages.config" />
-    <Content Include="ApplicationInsights.config">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <Content Include="MasterUn.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
