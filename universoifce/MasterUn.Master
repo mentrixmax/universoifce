@@ -1,0 +1,96 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterUn.master.cs" Inherits="universoifce.MasterUn" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server" class="clearfix">
+
+    <title>Universo IFCE - 2018</title>
+    <link type="text/css" href="style.css" media="screen" rel="stylesheet" />
+    <link type="text/css" href="bootstrap.css" media="screen" rel="stylesheet" />
+    <link type="text/css" href="responsive.css" media="screen" rel="stylesheet" />
+    <link type="text/css" href="bootstrap.min.css" media="screen" rel="stylesheet" />
+    <link href="./Universo IFCE 2017 - Campus Umirim_files/font-awesome.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="blue.css" media="screen" />
+    <!-- Css3 Transitions Styles  -->
+    <link rel="stylesheet" type="text/css" href="animate.css" media="screen" />
+
+
+    <!-- Fontello Icons CSS Styles  -->
+    <link rel="stylesheet" type="text/css" href="fontello.css" media="screen" />
+
+
+    <link href="font-awesome.min.css" rel="stylesheet" />
+
+    <style>
+        body, h1, h2, h3, h4, h5, h6, p, a.main-button, input[type="submit"], .dropdown li a, .sup-dropdown li a, ul.breadcrumbs li, .widget-search input[type="search"], #contact-form input[type="text"], #contact-form textarea, #respond input[type="text"], #respond textarea {
+            font-family: 'Open Sans', sans-serif !important;
+        }
+
+        .navbar-header img {
+            height: 76px;
+            width: 300px !important;
+            object-fit: contain;
+        }
+
+        .service-icon:hover {
+            background-color: #fff !important;
+        }
+    </style>
+
+
+<asp:contentplaceholder id="head" runat="server">
+    </asp:contentplaceholder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div style="padding-left: 50px">
+                <div class="top-bar">
+
+                    <div class="row-flex">
+                        <div class="col-6">
+                            <!-- Start Contact Info -->
+                            <ul class="contact-details">
+                                <li><a href="mailto:umirimeventos@hotmail.com"><i class="icon-mail-2"></i>umirimeventos@hotmail.com</a></li>
+                            </ul>
+                            <!-- End Contact Info -->
+                        </div>
+
+                    </div>
+                    <div class="navbar-header">
+                        <!-- Stat Toggle Nav Link For Mobiles -->
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <i class="icon-menu-1"></i>
+                        </button>
+                        <!-- End Toggle Nav Link For Mobiles -->
+                        <a href="https://universoifceumirim.vpeventos.com/">
+                            <img src="imagens/logotipo.png" style="max-width: 200px; max-height: 200px;" />
+                        </a>
+                    </div>
+
+                    <div class="navbar-collapse collapse">
+                        <!-- Start Navigation List -->
+                        <ul class="nav navbar-nav navbar-right">
+                            <li class="sf-menu"><a href="Default.aspx" class=" sf-menu-principal">Principal</a></li>
+                            <li class="sf-menu"><a href="Sobre.aspx" class=" sf-menu-principal">Sobre</a></li>
+                            <li class="sf-menu"><a href="http://ifceumirim.somee.com/Usuario/UsuarioCreate.aspx" class=" sf-menu-principal">Nova Inscrição</a></li>
+                            <li class="sf-menu"><a href="http://ifceumirim.somee.com/Login.aspx" class=" sf-menu-principal">Login</a></li>
+                            <li class="sf-menu"><a href="Resumo.aspx" class=" sf-menu-principal">Resumos</a></li>
+                            <li class="sf-menu"><a href="Programacao.aspx" class=" sf-menu-principal">Programação</a></li>
+                            <li class="sf-menu"><a href="Alimentacao.aspx" class=" sf-menu-principal">Alimentação</a></li>
+                            <li class="sf-menu"><a href="Organizadores.aspx" class=" sf-menu-principal">Organizadores</a></li>
+                        </ul>
+                        <!-- End Navigation List -->
+                    </div>
+                </div>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+    </form>
+</body>
+</html>
